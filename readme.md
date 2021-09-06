@@ -80,5 +80,11 @@ Here are some ideas to get you started:
 </p>
 <ul><li><a href="https://saweria.co/FauzanGanz">Saweria</a><li><a href="https://link.dana.id/qr/26sifccg">DANA</a></li><li><a href="https://trakteer.id/FERDIZ-AFK/tip">Trakteer</a></li></ul>
 
-
+Thanks To
+* [`Zhirr`](https://github.com/M.Farel/Zhirr)
+* [`Ferdi`](https://github.com/FERDIZ-afk)
+* [`Hexa`](https://github.com/Hexagonz)
+* [`Galang`](https://github.com/Zobin33)
+* [`Fauzan`](https://github.com/FauzanBotz)
+* [`Arya`](https://github.com/Arya-was)
 
